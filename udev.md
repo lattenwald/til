@@ -1,5 +1,9 @@
 # UDEV
 
+## Источники
+
+1. [ArchWiki](https://wiki.archlinux.org/index.php/udev)
+
 ## Информация об устройстве
 
 ### Поиск устройства

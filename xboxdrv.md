@@ -2,6 +2,12 @@
 
 Setting up [xboxdrv](https://gitlab.com/xboxdrv/xboxdrv)
 
+## Sources
+
+1. [Steam community forum](https://steamcommunity.com/app/236090/discussions/0/558748653724279774/)
+2. `xboxdrv` manual page
+
+
 ### Xbox controller layout
 
 ![Xbox controller layout](img/xbox.jpg "Xbox controller layout")
