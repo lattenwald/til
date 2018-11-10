@@ -64,3 +64,8 @@
     ...
     run: '/usr/share/virtualbox/VBoxCreateUSBNode.sh 189 11 00 vboxusers'
     run: '/usr/lib/udev/tlp-usb-udev /devices/pci0000:00/0000:00:14.0/usb1/1-1'
+
+### Применение правил
+
+    # udevadm control --reload
+    # udevadm trigger
