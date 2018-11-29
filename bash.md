@@ -14,14 +14,14 @@ Go to command mode: hotkey, `:`. In my case hotkey is `^a` (`Ctrl+a`), by defaul
 
 <dl>
   <dt>Horizontal split to vertical and back</dt>
-  <dd>`: next-layout`</dd>
+  <dd><tt>: next-layout</tt></dd>
 
   <dt>Swap window with another</dt>
-  <dd>`: swap-window -t <int>`</dd>
+  <dd><tt>: swap-window -t &lt;int&gt;</tt></dd>
 
   <dt>Break panes into windows</dt>
-  <dd>`: break-pane` or `hotkey !`</dd>
+  <dd><tt>: break-pane</tt> or <tt>hotkey !</tt></dd>
 
   <dt>Join pane into another window</dt>
-  <dd>`: join-pane -t <int>`, add `-h` or `-v` for explicit horizontal/vertical split</dd>
+  <dd><tt>: join-pane -t &lt;int&gt;</tt>, add <tt>-h</tt> or <tt>-v</tt> for explicit horizontal/vertical split</dd>
 </dl>
