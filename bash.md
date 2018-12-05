@@ -24,4 +24,7 @@ Go to command mode: hotkey, `:`. In my case hotkey is `^a` (`Ctrl+a`), by defaul
 
   <dt>Join pane into another window</dt>
   <dd><tt>: join-pane -t &lt;int&gt;</tt>, add <tt>-h</tt> or <tt>-v</tt> for explicit horizontal/vertical split</dd>
+
+  <dt>Equalize splits</dt>
+  <dd><tt>: select-layout even-horizontal</tt> (or <tt>even-vertical</tt>)</dd>
 </dl>
