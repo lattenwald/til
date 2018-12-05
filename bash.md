@@ -8,6 +8,10 @@
 
     date -d @1267619929
 
+## View HTTPS certificate info
+
+    H=example.com;openssl s_client -showcerts -servername $H -connect $H:443 </dev/null | openssl x509 -text
+
 # tmux
 
 Go to command mode: hotkey, `:`. In my case hotkey is `^a` (`Ctrl+a`), by default it's `^b` (`Ctrl+b`).
